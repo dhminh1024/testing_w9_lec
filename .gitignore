@@ -1,0 +1,6 @@
+data/
+__pycache__
+.DS_Store
+logs/
+.ipynb_checkpoints/
+checkpoint_weights.hdf5
